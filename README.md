@@ -1,8 +1,7 @@
-## Hi there 👋
-My Name is Nour, and i am a software developer!
+## Hi  👋
+My name is Nour, and I am a software developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about AI agents
 - 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/nour-humeidi-4b4509214/)
 
 
