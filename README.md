@@ -1,7 +1,7 @@
 ## Hi  👋
 My name is Nour, and I am a software developer!
 
-- 🌱 I’m currently learning about AI agents
+- 🌱 I’m currently learning about AI
 - 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/nour-humeidi-4b4509214/)
 
 
