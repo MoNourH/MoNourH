@@ -1,7 +1,7 @@
 ## Hi  👋
 My name is Nour, and I am a currently updating my portfolio!
 
-- 🌱 I’m currently learning about AI
+- 🌱 I’m currently learning about Speech to Text AI
 - 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/nour-humeidi-4b4509214/)
 
 
