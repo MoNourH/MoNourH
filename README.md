@@ -1,5 +1,5 @@
 ## Hi  👋
-My name is Nour, and I am a software developer!
+My name is Nour, and I am a currently updating my portfolio!
 
 - 🌱 I’m currently learning about AI
 - 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/nour-humeidi-4b4509214/)
